@@ -1,0 +1,1 @@
+export const users = [{id: '1', name: 'Mates', img: 'https://i0.wp.com/nypost.com/wp-content/uploads/sites/2/2019/06/the-office-1390.jpg?quality=80&strip=all&ssl=1' }]

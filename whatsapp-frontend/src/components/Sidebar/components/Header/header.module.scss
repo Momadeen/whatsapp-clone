@@ -1,0 +1,11 @@
+.header {
+  justify-content: space-between;
+  display: flex;
+  padding: 20px;
+  .icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+  }
+}

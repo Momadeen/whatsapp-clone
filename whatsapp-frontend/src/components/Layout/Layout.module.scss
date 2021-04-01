@@ -1,0 +1,15 @@
+.layout {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  background-color: #edeee2;
+}
+
+.container {
+  display: flex;
+  margin-top: -50px;
+  height: 90vh;
+  width: 90vw;
+  background-color: #f1f1ec;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+}
